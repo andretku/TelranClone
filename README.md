@@ -6,7 +6,7 @@ npm i
 
 npm start
 
-Должно высветить Hello world на 3000 порту
+Должно высветить **Hello world** на 3000 порту
 
 ---
 
